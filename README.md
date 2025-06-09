@@ -1,5 +1,5 @@
 # 💫 About Me:
-⚡ Innovative second-year IT Student @ Carleton University & Algonquin College | Tech Enthusiast & Problem Solver
+⚡ Innovative Third-year IT Student @ Carleton University & Algonquin College | Tech Enthusiast & Problem Solver
 
 
 # 💻 Tech Stack:
